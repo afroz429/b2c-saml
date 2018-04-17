@@ -4,3 +4,5 @@ replace #IdentityExperienceFrameworkAppId
 
 replace #entityID
 replace #ACS
+
+replace #InstrumentationKey
