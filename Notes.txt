@@ -1,0 +1,6 @@
+replace #yourtenant with yourtenant
+replace #ProxyIdentityExperienceFrameworkAppId
+replace #IdentityExperienceFrameworkAppId
+
+replace #entityID
+replace #ACS
